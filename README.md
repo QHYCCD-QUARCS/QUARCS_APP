@@ -1,4 +1,11 @@
 QUARCS_APP Compilation Instructions (README)
+
+Introduction:
+QUARCS_APP is the mobile client of the Q.U.A.R.C.S software package. This APP has two function
+1. Includes the QT web browser for the QUARCS user control interface. This interface will show the Vue front end of the QUARCS.
+2. IP address detector to get the IP address of the server. The IP address detector will monitor the broadcast TCP/IP packet on the local area network.  This packet includes the identity code and IP address of the QUARCS server. There is two basic connection modes between the server and the client. One is the AP direction connection mode. The server is AP hot spot. Another is the LAN mode, both the server and the client are connected under a router.
+
+
 Project Version Information：
 Qt: 5.12.8
 JDK: 1.8.0_321
