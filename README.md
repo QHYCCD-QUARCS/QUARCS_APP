@@ -8,10 +8,15 @@ QUARCS_APP is the mobile client of the Q.U.A.R.C.S software package. This APP ha
 
 
 Project Version Information:
+
 Qt: 5.12.8
+
 JDK: 1.8.0_321
+
 Android Studio: 2021.1.1.22 for Linux
+
 Android NDK: r21e for Linux x86-64
+
 
 Compilation Steps:
 1、Configure Android Development Environment:
