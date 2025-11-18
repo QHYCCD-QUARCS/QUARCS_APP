@@ -1,0 +1,22 @@
+<libraries>
+  <library
+      name="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6Android.jar:unspecified@jar"
+      jars="D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6Android.jar"
+      resolved="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6Android.jar:unspecified"/>
+  <library
+      name="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetwork.jar:unspecified@jar"
+      jars="D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetwork.jar"
+      resolved="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetwork.jar:unspecified"/>
+  <library
+      name="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetworkInformationBackend.jar:unspecified@jar"
+      jars="D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetworkInformationBackend.jar"
+      resolved="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\Qt6AndroidNetworkInformationBackend.jar:unspecified"/>
+  <library
+      name="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidPositioning.jar:unspecified@jar"
+      jars="D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidPositioning.jar"
+      resolved="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidPositioning.jar:unspecified"/>
+  <library
+      name="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidWebView.jar:unspecified@jar"
+      jars="D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidWebView.jar"
+      resolved="__local_aars__:D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\libs\QtAndroidWebView.jar:unspecified"/>
+</libraries>

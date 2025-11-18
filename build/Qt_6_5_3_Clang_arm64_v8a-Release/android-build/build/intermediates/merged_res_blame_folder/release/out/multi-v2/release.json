@@ -1,0 +1,330 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,166",
+                        "endColumns": "110,97",
+                        "endOffsets": "161,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,173",
+                        "endColumns": "117,102",
+                        "endOffsets": "168,271"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-et\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,158",
+                        "endColumns": "102,91",
+                        "endOffsets": "153,245"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-se_values-se.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-se\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,173",
+                        "endColumns": "117,92",
+                        "endOffsets": "168,261"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-pl\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,154",
+                        "endColumns": "98,96",
+                        "endOffsets": "149,246"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-ru\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,174",
+                        "endColumns": "118,93",
+                        "endOffsets": "169,263"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-ja\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,131",
+                        "endColumns": "75,84",
+                        "endOffsets": "126,211"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-it\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,168",
+                        "endColumns": "112,100",
+                        "endOffsets": "163,264"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\workspace\\LiYanlu\\rtspDemo\\QUARCS_app\\build\\Qt_6_5_3_Clang_arm64_v8a-Release\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "4,37,9,43,41,44,42",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "148,1671,271,2047,1900,2098,1999",
+                        "endLines": "7,39,35,43,41,44,42",
+                        "endColumns": "12,12,12,50,98,47,47",
+                        "endOffsets": "265,1894,1665,2093,1994,2141,2042"
+                    },
+                    "to": {
+                        "startLines": "2,6,9,36,38,39,41",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,405,1804,1963,2062,2200",
+                        "endLines": "5,8,35,36,38,39,41",
+                        "endColumns": "12,12,12,50,98,39,47",
+                        "endOffsets": "172,400,1799,1850,2057,2097,2243"
+                    }
+                },
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "85,193",
+                        "endColumns": "107,97",
+                        "endOffsets": "188,286"
+                    },
+                    "to": {
+                        "startLines": "37,40",
+                        "startColumns": "4,4",
+                        "startOffsets": "1855,2102",
+                        "endColumns": "107,97",
+                        "endOffsets": "1958,2195"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-el\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,172",
+                        "endColumns": "116,100",
+                        "endOffsets": "167,268"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,122",
+                        "endColumns": "66,70",
+                        "endOffsets": "117,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-ro\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,174",
+                        "endColumns": "118,102",
+                        "endOffsets": "169,272"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-in\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,168",
+                        "endColumns": "112,89",
+                        "endOffsets": "163,253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-pt-rBR\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,159",
+                        "endColumns": "103,95",
+                        "endOffsets": "154,250"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-fa\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,169",
+                        "endColumns": "113,92",
+                        "endOffsets": "164,257"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-nl\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,186",
+                        "endColumns": "130,103",
+                        "endOffsets": "181,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-ms\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,160",
+                        "endColumns": "104,89",
+                        "endOffsets": "155,245"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-zh-rTW\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,122",
+                        "endColumns": "66,70",
+                        "endOffsets": "117,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-nb\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,156",
+                        "endColumns": "100,96",
+                        "endOffsets": "151,248"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.QUARCS_app-merged_res-6:/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Qt6\\6.5.3\\android_arm64_v8a\\src\\android\\java\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,196",
+                        "endColumns": "140,101",
+                        "endOffsets": "191,293"
+                    }
+                }
+            ]
+        }
+    ]
+}

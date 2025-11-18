@@ -1,0 +1,17 @@
+版本：1.0.7
+增加更新包（盒子版本需与更新包匹配）的下载与传输到盒子功能。
+
+
+版本: 1.0.6
+该APP版本新增定位的获取与显示。
+增加手机时间、WIFI名称的获取。
+
+版本: 1.0.5
+该版本主要更新了界面UI
+This release focuses on an updated UI design.
+
+版本: 1.0.4
+Q.U.A.R.C.S（QHYCCD 通用天文摄影远程拍摄系统）是一款支持WIFI手机遥控拍摄和LAN电脑遥控拍摄全功能的开源软件套件。
+包括云台控制、相机控制、自动寻星、电动调焦控制、Stellarium星图功能。
+Q.U.A.R.C.S (QHYCCD Universal Astrophotographic Remote Capture System)  is an open-source software kit that supports the full function of mobile remote capture via WIFI and computer remote capture via LAN.
+It includes the mount control, camera control, autoguiding, electric focuser control, and Stellarium skymap function.

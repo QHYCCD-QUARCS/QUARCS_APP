@@ -1,0 +1,9 @@
+org.qtproject.example.QUARCS_app-java-0 C:\Qt6\6.5.3\android_arm64_v8a\src\android\java\res
+org.qtproject.example.QUARCS_app-pngs-1 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\generated\res\pngs\release
+org.qtproject.example.QUARCS_app-resValues-2 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\generated\res\resValues\release
+org.qtproject.example.QUARCS_app-rs-3 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\generated\res\rs\release
+org.qtproject.example.QUARCS_app-mergeReleaseResources-4 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.qtproject.example.QUARCS_app-mergeReleaseResources-5 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.qtproject.example.QUARCS_app-merged_res-6 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\build\intermediates\merged_res\release
+org.qtproject.example.QUARCS_app-android-build-7 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\res
+org.qtproject.example.QUARCS_app-release-8 D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\src\release\res

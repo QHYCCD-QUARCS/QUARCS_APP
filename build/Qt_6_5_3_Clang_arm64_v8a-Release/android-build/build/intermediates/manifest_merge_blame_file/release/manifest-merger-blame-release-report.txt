@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.qtproject.example.QUARCS_app"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0.6" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:3:5-135
+13        android:anyDensity="true"
+13-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:3:77-105
+16        android:smallScreens="true" />
+16-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:3:106-133
+17
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:15:5-79
+18-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:15:22-76
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:16:5-67
+19-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:16:22-64
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:17:5-81
+20-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:17:22-78
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:18:5-79
+21-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:18:22-76
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:20:5-75
+22-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:20:22-73
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:17:5-81
+23-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:17:22-78
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+24-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:22:5-79
+24-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:22:22-77
+25
+26    <application
+26-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:5-14:19
+27        android:name="org.qtproject.qt.android.bindings.QtApplication"
+27-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:54-116
+28        android:allowBackup="true"
+28-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:265-291
+29        android:allowNativeHeapPointerTagging="false"
+29-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:219-264
+30        android:fullBackupOnly="false"
+30-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:292-322
+31        android:hardwareAccelerated="true"
+31-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:117-151
+32        android:icon="@drawable/icon"
+32-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:323-352
+33        android:label="QUARCS"
+33-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:152-174
+34        android:requestLegacyExternalStorage="true"
+34-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:175-218
+35        android:usesCleartextTraffic="true" >
+35-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:4:18-53
+36        <activity
+36-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:9-13:20
+37            android:name="org.qtproject.qt.android.bindings.QtActivity"
+37-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:19-78
+38            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density"
+38-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:79-248
+39            android:exported="true"
+39-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:341-364
+40            android:label="QUARCS"
+40-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:249-271
+41            android:launchMode="singleTop"
+41-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:272-302
+42            android:screenOrientation="landscape" >
+42-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:5:303-340
+43            <intent-filter>
+43-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:6:13-9:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:7:17-68
+44-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:7:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:8:17-76
+46-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:8:27-74
+47            </intent-filter>
+48
+49            <meta-data
+49-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:10:13-88
+50                android:name="android.app.lib_name"
+50-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:10:24-59
+51                android:value="QUARCS_app" />
+51-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:10:60-86
+52            <meta-data
+52-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:11:13-79
+53                android:name="android.app.arguments"
+53-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:11:24-60
+54                android:value="" />
+54-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:11:61-77
+55            <meta-data
+55-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:12:13-98
+56                android:name="android.app.extract_android_style"
+56-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:12:24-72
+57                android:value="minimal" />
+57-->D:\workspace\LiYanlu\rtspDemo\QUARCS_app\build\Qt_6_5_3_Clang_arm64_v8a-Release\android-build\AndroidManifest.xml:12:73-96
+58        </activity>
+59    </application>
+60
+61</manifest>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.qtproject.example.QUARCS_app-merged_res-6:/drawable-mdpi_icon.png.flat",
+        "source": "org.qtproject.example.QUARCS_app-android-build-7:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "org.qtproject.example.QUARCS_app-merged_res-6:/drawable-ldpi_icon.png.flat",
+        "source": "org.qtproject.example.QUARCS_app-android-build-7:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "org.qtproject.example.QUARCS_app-merged_res-6:/drawable-hdpi_icon.png.flat",
+        "source": "org.qtproject.example.QUARCS_app-android-build-7:/drawable-hdpi/icon.png"
+    }
+]

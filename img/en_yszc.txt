@@ -1,0 +1,57 @@
+This policy applies solely to the QUARCS product or service provided by Light Speed Vision (Beijing) Co., Ltd.
+Last updated: September 19, 2024
+
+This application (hereinafter referred to as “the Application”) is designed to control devices such as cameras, equatorial mounts, and guide cameras via a local area network (LAN) for imaging operations. We understand the importance of user privacy and are committed to strictly following the principle of "data minimization" during the design and development process, ensuring that your personal data is never collected, processed, or shared unnecessarily. Please read this Privacy Policy carefully to understand how we protect your privacy.
+
+This policy will help you understand the following: 
+
+1.How we collect and use your personal information
+2.How we share, transfer, or disclose your personal information
+3.How we protect your personal information
+4.How we handle children’s personal information
+5.Third-party services
+6.How this policy is updated
+7.How to contact us
+
+1. How We Collect and Use Your Personal Information
+
+The Application is designed and operated to control devices connected within a local area network. We do not collect, store, or process any personally identifiable information, nor do we transmit or share user data over the internet. Specifically:
+
+Local Area Network Device Information: The Application communicates with devices such as cameras, equatorial mounts, and guide cameras within the local area network. Information used includes the device's IP address and port number. This information is only used to establish device connections and control operations, with all data processing done locally. The Application does not store, upload, or communicate this information to external servers.
+
+Camera Control and Photo Storage: The Application controls the camera via the LAN for imaging operations. Photos taken are stored directly on the device connected to the camera, such as a computer or storage device. We do not upload these photos to the cloud or any other server, nor do we perform remote backups.
+
+Logs and Diagnostic Information: During the operation of the Application, we do not actively record or collect any user activity logs, error reports, or diagnostic information. The Application is designed for fully localized operation, ensuring no interference with user privacy.
+
+2. How We Share, Transfer, or Disclose Your Personal Information
+
+As the Application does not collect, store, or process any user data, there is no sharing or disclosure of information. We do not share any user data with third parties, nor do we sell or rent personal information in any form.
+
+3. How We Protect Your Personal Information
+
+Although the Application does not involve the storage or processing of personal data, we are committed to ensuring the security of your device's operating environment. To help protect your LAN, we recommend the following measures:
+
+Use Strong Passwords: Ensure that your LAN and device connections are secured with strong passwords to prevent unauthorized access.
+
+Enable Encryption: When possible, enable encryption protocols (e.g., WPA2) to protect your network communications and prevent data interception.
+
+Regular Firmware Updates: Ensure that the firmware and control software for devices like cameras, equatorial mounts, and guide cameras are kept up to date to minimize potential security risks.
+
+4. How We Handle Children’s Personal Information
+
+We take the privacy of children seriously. As the Application does not involve the collection or processing of personal data, it is suitable for users of all ages, including children. Parents or guardians can safely allow children to use the Application without concern for privacy issues.
+
+5. Third-Party Services
+
+The Application relies on hardware devices within the local area network, which may require integration with third-party open-source projects or hardware drivers. These third-party projects are managed by their respective developers or companies, and the Application is not responsible for their privacy policies or data handling practices. Therefore, we recommend reviewing the privacy policies of these third-party services to understand how they process your data and protect your privacy.
+
+6. How This Policy is Updated
+
+To address changes in laws and regulations or to improve privacy protection measures, we may update this Privacy Policy from time to time. When significant changes are made, we will post a notification within the Application. We recommend checking this Privacy Policy regularly to stay informed of our current data protection practices. Each update to the Privacy Policy will include an effective date.
+
+7. How to Contact Us
+
+If you have any questions, comments, or suggestions regarding this Privacy Policy, please feel free to contact us at:
+Email: gssjgy@qhyccd.com
+
+We are committed to ensuring your privacy is fully protected, and we thank you for your trust and support of this Application!
